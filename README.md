@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 
 ## 📈 Some stats:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=M4rlus&count_private=true)](https://github.com/M4rlus)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rlus&layout=compact)](https://github.com/M4rlus)
