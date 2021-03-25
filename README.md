@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 -->
 
 ## 📈 Some stats:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=M4rlus&count_private=true&show_icons=true&theme=radical)](https://github.com/M4rlus)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=M4rlus&count_private=true&show_icons=true&theme=dracula&border_radius=false)](https://github.com/M4rlus)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rlus&layout=compact&show_icons=true&theme=radical)](https://github.com/M4rlus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rlus&layout=compact&show_icons=true&theme=dracula&border_radius=false)](https://github.com/M4rlus)
