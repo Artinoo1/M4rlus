@@ -8,9 +8,6 @@
 <a href="https://twitter.com/dieserm4rlus">
   <img align="left" alt="M4rlus | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/pvvlpw5xxcv3fq2zhmri4cgqo">
-  <img align="left" alt="M4rlus | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br />
 <br />
