@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M4rlus</h1>
-<h3 align="center">A guy from germany who loves it to try things out
-<br>
+<h3 align="center">A guy from germany who loves it to try things out</h3>
+<h3 align="center">
   
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/292712398887059457)](https://discord.com/users/292712398887059457)
 
