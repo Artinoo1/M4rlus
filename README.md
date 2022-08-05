@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm M4rlus</h1>
 <h3 align="center">A guy from germany who loves it to try things out</h3>
-<div align="center">
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/292712398887059457)](https://discord.com/users/292712398887059457)
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4rlus&label=Profile%20views&color=0e75b6&style=flat" alt="m4rlus" /> </p>
 
