@@ -6,9 +6,7 @@
 
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m4rlus&label=Profile%20views&color=0e75b6&style=flat" alt="m4rlus" /> </p>
-
-![GitHub followers](https://img.shields.io/github/followers/m4rlus)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m4rlus&label=Profile%20views&color=0e75b6&style=flat" alt="m4rlus" /> ![GitHub followers](https://img.shields.io/github/followers/m4rlus) </p>
 
 
 ### 🛠 &nbsp;Tech Stack
