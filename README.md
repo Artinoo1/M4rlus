@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M4rlus</h1>
-<h3 align="center">A guy from germany who loves it to try things out</h3>
+<h3 align="center">A guy from germany who loves it to try things out and hates ui/ux design</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m4rlus&label=Profile%20views&color=0e75b6&style=flat" alt="m4rlus" /></p>
 <h3 align="center">
   
